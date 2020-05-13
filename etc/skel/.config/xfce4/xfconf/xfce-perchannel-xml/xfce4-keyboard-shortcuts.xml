@@ -53,7 +53,7 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;u" type="string" value="pavucontrol"/>
       <property name="&lt;Super&gt;Escape" type="string" value="xkill"/>
       <property name="&lt;Super&gt;Return" type="string" value="exo-open --launch TerminalEmulator"/>
-      <property name="&lt;Shift&gt;&lt;Super&gt;Return" type="string" value="thunar"/>
+      <property name="&lt;Shift&gt;&lt;Super&gt;Return" type="string" value="nautilus"/>
       <property name="&lt;Super&gt;F1" type="string" value="exo-open --launch webbrowser"/>
       <property name="&lt;Super&gt;F2" type="string" value="atom"/>
       <property name="&lt;Super&gt;F3" type="string" value="inkscape"/>
